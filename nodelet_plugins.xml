@@ -1,0 +1,8 @@
+<library path="lib/libtopic_offset_nodelet">
+    <class name="topic_offset/TopicOffsetNodelet" type="topic_offset::TopicOffsetNodelet" base_class_type="nodelet::Nodelet">
+        <description>
+            This nodelet converts markers to mprt format.
+        </description>
+    </class>
+</library>
+
